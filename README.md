@@ -24,8 +24,3 @@ redux 4.0.1
 spectre 0.5.8
 
 yarn 1.16.0
-
-
-### Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE.md para detalles.
