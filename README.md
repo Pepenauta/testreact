@@ -1,20 +1,24 @@
-# Test de Front End
+# Football player finder
 
-Aplicación de prueba que recupera datos de un json y los muestra con unos filtros.
+React app that consumes an API Rest and shows a soccer players list with filters.
 
-### Instalación
+![alt text](./futbol.player.list.png)
 
-Ejecutar en consola, en el directorio raíz:
+### Installation
 
-yarn install
+To run this project, install it locally using yarn. On a terminal, in the root directory:
+
+```bash
+yarn
 
 yarn start
 
 yarn test
+```
 
-Dentro del navegador ir a http://localhost:3000
+Open a browser and go to http://localhost:3000
 
-### Construido con 🛠️
+### Built it with 🛠️
 
 node 10.15.0
 
@@ -24,3 +28,6 @@ redux 4.0.1
 spectre 0.5.8
 
 yarn 1.16.0
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
