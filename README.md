@@ -29,5 +29,5 @@ spectre 0.5.8
 
 yarn 1.16.0
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
